@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pete-Software
+- 👋 Hi, I’m @Peter-Software
 - 👀 I’m interested in ML/Computer-Vision
 - 🌱 I’m currently learning Reservoir Computing; Robotics Software (FRC)
 - 💞️ I’m looking to collaborate on anything ML but right now focused on recursion/LSTM's
