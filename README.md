@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @Peter-Software
-- 👀 I’m interested in ML/Computer-Vision
-- 🌱 I’m currently learning Reservoir Computing; Robotics Software (FRC)
-- 💞️ I’m looking to collaborate on anything ML but right now focused on recursion/LSTM's
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- FRC Team 2342 -- Software Subteam Member
 
 <!---
 Pete-Software/Pete-Software is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
